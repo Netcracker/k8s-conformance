@@ -1,6 +1,6 @@
-## How to Reproduce the Results
+# How to Reproduce the Results
 
-# Setup the Cluster
+## Setup the Cluster
 
 Download and install (KubeMarine)[https://github.com/Netcracker/KubeMarine#kubemarine-cli-installation] on your environment.
 
@@ -21,7 +21,7 @@ rbac:
 
 Deploy the cluster according to the KubeMarine documentation: https://github.com/Netcracker/KubeMarine#running-cluster-installation.
 
-# Run Conformance Test
+## Run Conformance Test
 
 Upload (Sonobuoy)[https://github.com/vmware-tanzu/sonobuoy] to one of the control-plane nodes and run it according to the documentation: https://github.com/cncf/k8s-conformance/blob/master/instructions.md#running
 
