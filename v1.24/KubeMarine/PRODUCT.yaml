@@ -3,6 +3,6 @@ name: KubeMarine
 version: v0.8.0
 website_url: https://github.com/Netcracker/KubeMarine
 documentation_url: https://github.com/Netcracker/KubeMarine/tree/main/documentation
-product_logo_url: https://avatars.githubusercontent.com/u/84337028?s=200&v=4
+product_logo_url: https://user-images.githubusercontent.com/5212888/162978291-63d55f19-7dc0-4126-ad39-cd69191e7e19.jpg
 type: distribution
 description: 'Management tool for Kubernetes cluster deployment and maintenance'
