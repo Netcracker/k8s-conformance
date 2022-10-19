@@ -6,7 +6,7 @@
 
 2. Prepare VMs or bare-metal machines according to [Recommended Hardware Requirements](https://github.com/Netcracker/KubeMarine/blob/main/documentation/Installation.md#recommended-hardware-requirements) and selected [Deployment Scheme](https://github.com/Netcracker/KubeMarine/blob/main/documentation/Installation.md#deployment-schemes). To run `Sonobuoy` tests we recommend Full-HA configuration.
 
-Make sure the nodes meet [https://github.com/Netcracker/KubeMarine/blob/main/documentation/Installation.md#prerequisites-for-cluster-nodes](Cluster Nodes Prerequisites).
+Make sure the nodes meet [Cluster Nodes Prerequisites](https://github.com/Netcracker/KubeMarine/blob/main/documentation/Installation.md#prerequisites-for-cluster-nodes).
 
 3. Create an inventory file named `cluster.yaml` for your cluster based on given [examples](https://github.com/Netcracker/KubeMarine/tree/main/examples/cluster.yaml) and [documentation](https://github.com/Netcracker/KubeMarine/blob/main/documentation/Installation.md#configuration).
 
